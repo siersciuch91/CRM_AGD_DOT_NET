@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM_AGD_DOT_NET", "CRM_AGD_DOT_NET\CRM_AGD_DOT_NET.csproj", "{9467E2C6-FD20-421A-8E70-08E2BE804335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM_AGD_DOT_NET.Tests", "CRM_AGD_DOT_NET.Tests\CRM_AGD_DOT_NET.Tests.csproj", "{43D47692-4620-41CD-959F-1A9E4E934F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9467E2C6-FD20-421A-8E70-08E2BE804335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9467E2C6-FD20-421A-8E70-08E2BE804335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9467E2C6-FD20-421A-8E70-08E2BE804335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9467E2C6-FD20-421A-8E70-08E2BE804335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D47692-4620-41CD-959F-1A9E4E934F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D47692-4620-41CD-959F-1A9E4E934F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D47692-4620-41CD-959F-1A9E4E934F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D47692-4620-41CD-959F-1A9E4E934F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E852397-9337-4A0E-96CB-629EE6205900}
+	EndGlobalSection
+EndGlobal
